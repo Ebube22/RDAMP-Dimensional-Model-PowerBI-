@@ -117,8 +117,7 @@ These were used for **Power BI Card visuals** to quickly summarize performance a
 > 📌 _Replace these with actual Power BI screenshots (Export each visual or report section)_
 
 ### 🗓️ Product Seasonality
-
-<img Oluebubechi_Anyahara_product_seasonality_trends.png />
+<img width="1417" height="1150" alt="Oluebubechi_Anyahara_product_seasonality_trends.png" src="https://github.com/user-attachments/assets/56c32b76-8ce7-4bae-b593-7a51e2989351" />
 
 ### 📉 Discount vs. Profit Analysis
 > ![discount vs profit](screenshots/discount-vs-profit.png)
