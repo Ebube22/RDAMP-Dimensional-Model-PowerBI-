@@ -118,6 +118,8 @@ These were used for **Power BI Card visuals** to quickly summarize performance a
 
 ### 🗓️ Product Seasonality
 
+<img width="478" height="217" alt="image" src="https://github.com/user-attachments/assets/d358de96-8a73-46b3-85e1-5caade8da6bb" />
+
 ### 📉 Discount vs. Profit Analysis
 
 
