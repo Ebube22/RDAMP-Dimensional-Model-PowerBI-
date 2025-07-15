@@ -117,23 +117,18 @@ These were used for **Power BI Card visuals** to quickly summarize performance a
 > 📌 _Replace these with actual Power BI screenshots (Export each visual or report section)_
 
 ### 🗓️ Product Seasonality
-<img width="1417" height="1150" alt="Oluebubechi_Anyahara_product_seasonality_trends.png" src="https://github.com/user-attachments/assets/56c32b76-8ce7-4bae-b593-7a51e2989351" />
 
 ### 📉 Discount vs. Profit Analysis
-> ![discount vs profit](screenshots/discount-vs-profit.png)
+
 
 ### 📊 Average Order Value by Channel & Segment 
-> ![average order value](screenshots/aov-combo.png)
 
 ### 🏅 Top 10 Customers by Profit
-> ![top customers](screenshots/top10-customers.png)
 
 ### 🌍 Category Rankings by Region 
-> ![ranking](screenshots/region-category-ranking.png)
 
-### 🎯 KPI Dashboard Cards
-> ![kpi cards](screenshots/kpi-cards.png)
 
+### 🎯 KPI Dashboard Card
 ---
 
 ## ✅ Final Outcome
