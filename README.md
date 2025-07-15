@@ -18,7 +18,7 @@ The solution enables ACE to gain deep insights into customer behavior, product p
 ## 🧭 Dimensional Schema Diagram
 
 
-<img width="1417" height="1150" alt="Oluebubechi_anyahara_schema_diagram" src="https://github.com/user-attachments/assets/56c32b76-8ce7-4bae-b593-7a51e2989351" />
+<img width="1417" height="1150" alt="Oluebubechi_anyahara_schema_diagram" src="[https://github.com/user-attachments/assets/56c32b76-8ce7-4bae-b593-7a51e2989351](https://github.com/Ebube22/RDAMP-Dimensional-Model-PowerBI-/blob/1199386203527e942dd4cc06af89aaa0b5d5831c/Oluebubechi_Anyahara_product_seasonality_trends.png)" />
 
 ## 🗂️ Purpose of Tables Created
 
