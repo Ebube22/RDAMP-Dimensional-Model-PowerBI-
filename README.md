@@ -126,11 +126,16 @@ These were used for **Power BI Card visuals** to quickly summarize performance a
 
 ### 📊 Average Order Value by Channel & Segment 
 
+<img width="350" height="196" alt="image" src="https://github.com/user-attachments/assets/f8706b0c-bc93-4bed-8664-334e28f1e736" />
 
 ### 🏅 Top 10 Customers by Profit
 
+<img width="258" height="252" alt="image" src="https://github.com/user-attachments/assets/a0674514-3da1-4e67-95e8-9966489b8de2" />
+
 
 ### 🌍 Category Rankings by Region 
+
+<img width="267" height="251" alt="image" src="https://github.com/user-attachments/assets/0758e6a4-b228-4b64-b239-257258a1ef91" />
 
 
 ### 🎯 KPI Dashboard Card
