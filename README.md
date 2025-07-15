@@ -144,5 +144,3 @@ These were used for **Power BI Card visuals** to quickly summarize performance a
 
 ---
 
-Let me know if you want this exported as a downloadable or prettified PDF version.  
-You’re ready to present this confidently — great work! 💼📊🚀
