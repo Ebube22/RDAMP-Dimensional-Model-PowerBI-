@@ -122,10 +122,13 @@ These were used for **Power BI Card visuals** to quickly summarize performance a
 
 ### 📉 Discount vs. Profit Analysis
 
+<img width="308" height="250" alt="image" src="https://github.com/user-attachments/assets/bb7dbd1d-1ea9-4148-a8d9-2692af7e1b08" />
 
 ### 📊 Average Order Value by Channel & Segment 
 
+
 ### 🏅 Top 10 Customers by Profit
+
 
 ### 🌍 Category Rankings by Region 
 
