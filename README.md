@@ -109,17 +109,6 @@ These were used for **Power BI Card visuals** to quickly summarize performance a
 
 ---
 
-## 🔗 Power BI Connection Steps
-
-To connect Power BI to the SQLite database:
-
-1. I installed the [SQLite ODBC Driver](http://www.ch-werner.de/sqliteodbc/)
-2. Created a DSN pointing to the `.sqlite` file
-3. In Power BI Desktop:
-   - Went to **Home → Get Data → ODBC**
-   - Selected the DSN
-   - Chose only `vw_*` views (**not raw tables**) for optimized querying
-4. Built visuals using filtered, aggregated versions of the data
 
 ---
 
@@ -127,19 +116,19 @@ To connect Power BI to the SQLite database:
 
 > 📌 _Replace these with actual Power BI screenshots (Export each visual or report section)_
 
-### 🗓️ Product Seasonality (Matrix Heatmap)
+### 🗓️ Product Seasonality
 > ![product seasonality heatmap](screenshots/seasonality.png)
 
-### 📉 Discount vs. Profit Analysis (Scatter)
+### 📉 Discount vs. Profit Analysis
 > ![discount vs profit](screenshots/discount-vs-profit.png)
 
-### 📊 Average Order Value by Channel & Segment (Combo Chart)
+### 📊 Average Order Value by Channel & Segment 
 > ![average order value](screenshots/aov-combo.png)
 
-### 🏅 Top 10 Customers by Profit (Bar Chart)
+### 🏅 Top 10 Customers by Profit
 > ![top customers](screenshots/top10-customers.png)
 
-### 🌍 Category Rankings by Region (Matrix)
+### 🌍 Category Rankings by Region 
 > ![ranking](screenshots/region-category-ranking.png)
 
 ### 🎯 KPI Dashboard Cards
