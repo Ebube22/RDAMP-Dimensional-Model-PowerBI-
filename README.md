@@ -1,8 +1,5 @@
 # RDAMP-Dimensional-Model-PowerBI-
 
-Ah, perfect! Let’s rewrite the `README.md` as if **you, the analyst/developer**, are presenting and documenting your own work. We’ll keep it professional and confident — just like a portfolio or project submission.
-
-Here it is:
 
 ---
 
@@ -160,8 +157,6 @@ To connect Power BI to the SQLite database:
   - Combo charts
   - Seasonal sales 
   - Sales & profitability comparisons
-
-This project showcases my ability to take raw transactional data, build a scalable data architecture, and transform it into meaningful insights.
 
 ---
 
